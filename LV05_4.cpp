@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int a, b, c, d;
-    cout << "Unesi termine a, b, c i d";
+    cout << "Unesi termine a, b, c i d" << endl;
     cin >> a >> b >> c >> d;
     int kasniji_pocetak = a;
     if (c > kasniji_pocetak) {
